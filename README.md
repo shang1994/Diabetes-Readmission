@@ -1,0 +1,2 @@
+# Diabetes-Readmission
+The study looks to analyze the database of diabetic patients from a medical database. The dataset contains mostly patient details as well as their medical records. The goal of the study is to determine if a diabetic patient will require solo-insulin treatment or insulin + drug therapy. The success of the treatment will be based on the target variable ( IF THE PATIENT IS READMITTED TO THE HOSPITAL)
